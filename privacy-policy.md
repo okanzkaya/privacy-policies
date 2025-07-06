@@ -21,7 +21,4 @@ Kaggle Navigator does not use any third-party services that collect user data. A
 6. Changes to This Privacy Policy
 We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage users to review this Privacy Policy periodically for any updates.
 
-Instructions for Use:
-Insert the Effective Date: Add the date when you publish the policy.
-Hosting the Policy: You can host this Privacy Policy on a simple webpage using GitHub Pages, or any other web hosting service. Make sure to provide the URL in your Chrome Web Store submission.
 This Privacy Policy is designed to ensure compliance with Chrome Web Store policies and Kaggle's terms of service, clearly stating that no user data is collected.
