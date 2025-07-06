@@ -11,6 +11,7 @@ We do not collect, store, or transmit any personal data from users of the Kaggle
 The Kaggle Navigator extension requests the following permissions:
 
 clipboardWrite: This permission allows users to copy content from Kaggle notebooks directly to their clipboard. It is used solely for this purpose and does not involve any data collection.
+
 4. Use of Data
 Since we do not collect any user data, we do not use, share, or sell any personal information. The extension is designed to enhance your experience while using Kaggle notebooks without compromising your privacy.
 
